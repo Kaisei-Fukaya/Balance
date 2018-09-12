@@ -14,12 +14,13 @@ If you touch any of the obstacles you will also fall.
 ## Game Modes
 There are two modes: Classic and Endless.
 
-*Classic mode is a set of 6 predefined levels (I would recommend to play this first).
+* Classic mode is a set of 6 predefined levels (I would recommend to play this first).
 
-*Endless mode is self explanatory, there is no high-score table (yet). So for now just give yourself a pat on the back for every 100 metres, you deserve it.
+* Endless mode is self explanatory, there is no high-score table (yet). So for now just give yourself a pat on the back for every 100 metres, you deserve it.
 
 ## Resources
 Game Engine: [Kontra.js](https://github.com/straker/kontra)
+
 Sprite created in: [piskelapp](https://www.piskelapp.com/)
 
 This article helped a lot with handling canvas resizing: https://www.smashingmagazine.com/2012/10/design-your-own-mobile-game/
