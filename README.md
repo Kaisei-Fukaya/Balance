@@ -3,6 +3,13 @@ js13k 2018 competition http://js13kgames.com/
 
 Balance is a game about an unfortunate man forced to walk a line for eternity, or maybe it's just a game about trying to walk a tightrope (or slackline?) without falling off.
 
+## Browser/platform support
+This game is designed to work on desktop and mobile.
+* It works on Chrome and Firefox, both desktop and mobile.
+* Works (albeit sketchily) on Edge.
+* Does not work on Internet Explorer.
+* Other browsers have not been tested as of yet.
+
 ## Controls
 Move forward by pressing/holding "space" on desktop, or tapping/holding on mobile. There is no moving backwards, so take your time.
 
